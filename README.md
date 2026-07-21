@@ -1,2 +1,2 @@
 # SE_B10_GENAI_Program Assignments
-SE_B10_GENAI_Assignments
+
